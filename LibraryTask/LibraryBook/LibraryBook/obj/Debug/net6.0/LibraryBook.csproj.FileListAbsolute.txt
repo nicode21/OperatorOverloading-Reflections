@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Materials\OperatorOverloading_Reflections\LibraryTask\LibraryBook\LibraryBook\bin\Debug\net6.0\LibraryBook.exe
+C:\Users\User\Desktop\Materials\OperatorOverloading_Reflections\LibraryTask\LibraryBook\LibraryBook\bin\Debug\net6.0\LibraryBook.deps.json
+C:\Users\User\Desktop\Materials\OperatorOverloading_Reflections\LibraryTask\LibraryBook\LibraryBook\bin\Debug\net6.0\LibraryBook.runtimeconfig.json
+C:\Users\User\Desktop\Materials\OperatorOverloading_Reflections\LibraryTask\LibraryBook\LibraryBook\bin\Debug\net6.0\LibraryBook.dll
+C:\Users\User\Desktop\Materials\OperatorOverloading_Reflections\LibraryTask\LibraryBook\LibraryBook\bin\Debug\net6.0\LibraryBook.pdb
+C:\Users\User\Desktop\Materials\OperatorOverloading_Reflections\LibraryTask\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Materials\OperatorOverloading_Reflections\LibraryTask\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Materials\OperatorOverloading_Reflections\LibraryTask\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Materials\OperatorOverloading_Reflections\LibraryTask\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.AssemblyInfo.cs
+C:\Users\User\Desktop\Materials\OperatorOverloading_Reflections\LibraryTask\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Materials\OperatorOverloading_Reflections\LibraryTask\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.dll
+C:\Users\User\Desktop\Materials\OperatorOverloading_Reflections\LibraryTask\LibraryBook\LibraryBook\obj\Debug\net6.0\refint\LibraryBook.dll
+C:\Users\User\Desktop\Materials\OperatorOverloading_Reflections\LibraryTask\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.pdb
+C:\Users\User\Desktop\Materials\OperatorOverloading_Reflections\LibraryTask\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.genruntimeconfig.cache
+C:\Users\User\Desktop\Materials\OperatorOverloading_Reflections\LibraryTask\LibraryBook\LibraryBook\obj\Debug\net6.0\ref\LibraryBook.dll
